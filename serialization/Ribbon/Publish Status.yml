@@ -1,0 +1,25 @@
+﻿---
+ID: "51a88e5e-ee2d-44a4-b0b2-ab258fab9648"
+Parent: "9b8b99f3-5ae8-4b29-a320-dff191c4e3ab"
+Template: "3619f992-4177-4124-89dd-dabfc2baf6bb"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Publish/Publish Status
+DB: core
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "c78d9b41-ffeb-402d-93e8-e1270d8bb787"
+  Hint: Type
+  Value: Sitecore.Foundation.Multisite.ContentEditor.RibbonPanels.PublicItemInfo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180517T024428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
